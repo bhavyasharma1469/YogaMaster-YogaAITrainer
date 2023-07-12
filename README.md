@@ -1,1 +1,1 @@
-# YogaMaster---AI-Yoga-Trainer# YogaAI_Trainer
+# YogaMaster - AI-Yoga-Trainer
